@@ -1,0 +1,12 @@
+C:\Users\gorel\OneDrive\Documentos\Tic Tac Toe\Tic Tac Toe\Debug\Tic Tac Toe.vcxprojAssemblyReference.cache
+C:\Users\gorel\OneDrive\Documentos\Tic Tac Toe\Tic Tac Toe\Debug\TicTacToe.GameForm.resources
+C:\Users\gorel\OneDrive\Documentos\Tic Tac Toe\Tic Tac Toe\Debug\TicTacToe.StartForm.resources
+C:\Users\gorel\OneDrive\Documentos\Tic Tac Toe\Tic Tac Toe\Debug\Tic Tac Toe.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\tic-tac-toe-master\Tic Tac Toe\Debug\Tic Tac Toe.vcxprojAssemblyReference.cache
+C:\Users\User\Desktop\tic-tac-toe-master\Tic Tac Toe\Debug\TicTacToe.GameForm.resources
+C:\Users\User\Desktop\tic-tac-toe-master\Tic Tac Toe\Debug\TicTacToe.StartForm.resources
+C:\Users\User\Desktop\tic-tac-toe-master\Tic Tac Toe\Debug\Tic Tac Toe.vcxproj.GenerateResource.cache
+C:\Users\Student406\Desktop\tic-tac-toe-master\Tic Tac Toe\Debug\Tic Tac Toe.vcxprojAssemblyReference.cache
+C:\Users\Student406\Desktop\tic-tac-toe-master\Tic Tac Toe\Debug\TicTacToe.GameForm.resources
+C:\Users\Student406\Desktop\tic-tac-toe-master\Tic Tac Toe\Debug\TicTacToe.StartForm.resources
+C:\Users\Student406\Desktop\tic-tac-toe-master\Tic Tac Toe\Debug\Tic Tac Toe.vcxproj.GenerateResource.cache

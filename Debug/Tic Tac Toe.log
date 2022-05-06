@@ -1,0 +1,13 @@
+﻿  StartForm.cpp
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(8,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(34,2): error C2601: TicTacToe::StartForm::оПрограммеToolStripMenuItem_Click: недопустимые локальные определения функций
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(27): message : эта строка содержит скобку "{", которая пока не имеет парной
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(44,1): error C2601: TicTacToe::StartForm::выходToolStripMenuItem_Click: недопустимые локальные определения функций
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(27): message : эта строка содержит скобку "{", которая пока не имеет парной
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(49,1): error C2601: TicTacToe::StartForm::выход2ToolStripMenuItem_Click: недопустимые локальные определения функций
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(27): message : эта строка содержит скобку "{", которая пока не имеет парной
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(55,1): error C2601: TicTacToe::StartForm::buttonStartGame_Click: недопустимые локальные определения функций
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(27): message : эта строка содержит скобку "{", которая пока не имеет парной
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(60,1): error C2601: TicTacToe::StartForm::buttonStartGame_Click_1: недопустимые локальные определения функций
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(27): message : эта строка содержит скобку "{", которая пока не имеет парной
+E:\Колледж\tic-tac-toe-master\Tic Tac Toe\StartForm.cpp(27): fatal error C1075: "{": не найдена несоответствующая лексема
